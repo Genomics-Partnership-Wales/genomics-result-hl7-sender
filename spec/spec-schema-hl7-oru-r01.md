@@ -5,6 +5,7 @@ date_created: 2025-08-21
 owner: Genomics-Partnership-Wales
 tags: [schema, HL7, healthcare, interoperability]
 
+# Schema Specification - HL7 v2.5.1 ORU^R01 Message
 
 This specification defines the HL7 v2.5.1 ORU^R01 message schema for use in the Genomics Results HL7 Sender. It provides a machine-readable, unambiguous contract for message structure, required segments, and field-level requirements for interoperability with NHS and partner systems.
 
